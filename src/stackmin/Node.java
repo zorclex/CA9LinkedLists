@@ -1,11 +1,11 @@
-package pack;
+package stackmin;
 
-public class LNode {
+public class Node {
 	
 	public int payload;
-	public LNode next;
+	public Node next;
 	
-	LNode(int payload)
+	Node(int payload)
 	{
 		this.payload = payload;
 		this.next = null;

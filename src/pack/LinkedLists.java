@@ -4,7 +4,7 @@ public class LinkedLists {
 	
 	public LNode head;
 	public LNode tail;
-	private int count = 0;
+	public int count = 0;
 	
 	public LinkedLists()
 	{
@@ -18,7 +18,7 @@ public class LinkedLists {
         this.tail = this.head;
 		this.count = 1;
 	}
-    
+	
 	public int length()
 	{
 		return this.count;
