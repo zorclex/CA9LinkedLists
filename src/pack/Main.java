@@ -34,7 +34,7 @@ public class Main {
 		System.out.println("===============================================================================\n");
 		
 		
-		System.out.println("\n=================\nSingly-linked List test\n=================\n");
+		System.out.println("=================\nDoubly-linked List test\n=================\n");
 
 		
 		// doubly linked list
