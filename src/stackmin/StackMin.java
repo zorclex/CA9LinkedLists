@@ -57,7 +57,7 @@ public class StackMin {
         return poppedItem;
     }
     
-    public int peek(int data)
+    public int peek()
     {
     	return stack.head.payload;
     }
